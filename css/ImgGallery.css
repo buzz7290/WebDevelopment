@@ -1,0 +1,12 @@
+.navbarBackground {
+  background: #172233;
+}
+.navbar-default .navbar-brand {
+  color: white;
+}
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+.jumbotron {
+  margin-top: 80px;
+}
